@@ -1,0 +1,7 @@
+1. -> O(n*n);
+2. -> O(n*n)
+3. -> O(n*sqrt(n))
+4. -> O(n^3)
+5. -> O(sqrt(n))
+6. -> O(nlogn)
+7. -> O(n*nlogn)
